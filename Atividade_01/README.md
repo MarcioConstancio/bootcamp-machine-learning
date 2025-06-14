@@ -2,7 +2,7 @@
 
 **Nome:** Márcio Constâncio Junior
 
-**1. Explique, com suas palavras, o que é _machine learning_? **
+**1. Explique, com suas palavras, o que é _machine learning_?**
 
 Resposta: _Machine Learning_ é o campo da inteligência artificial na qual os sistemas são capazes de aprender sem ser programados diretamente, ou seja, ao invés de programar as instruções diretamente ao computador, este analisa os dados e aprende como deve operar com a finalidade de generalizar suas análises para novos dados. 
 
